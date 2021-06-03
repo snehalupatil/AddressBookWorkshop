@@ -1,7 +1,7 @@
 public class AddressBook {
     public static void main(String[] args) {
         /**
-         * Added welcome message
+         * welcome message is added
          */
         System.out.println("Welcome to AddressBook System");
     }
